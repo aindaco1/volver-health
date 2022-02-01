@@ -6,7 +6,7 @@ title: Team
 # Board
 
 <figure>
-  <img alt="Alonso Indacochea" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Alonso Indacochea" src="/assets/images/alonso-cartoon.png" />
   <figcaption>
     Alonso Indacochea -- CEO
   </figcaption>
@@ -17,7 +17,7 @@ Former CEO and Co-owner of (11 Online) [11online.us].
 Alonso leads our product and business development effort.
 
 <figure>
-  <img alt="Jay E. Renteria" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Jay E. Renteria" src="/assets/images/jay-cartoon.png" />
   <figcaption>
     Jay E. Renteria -- CTO
   </figcaption>
@@ -29,7 +29,7 @@ Former Co-owner and Senior Engineer at (11 Online) [11online.us].
 Jay leads our technology and engineering effort.
 
 <figure>
-  <img alt="Dr. William P. Campbell" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Dr. William P. Campbell" src="/assets/images/william-cartoon.png" />
   <figcaption>
     Dr. William P. Campbell -- CSO
   </figcaption>
@@ -42,7 +42,7 @@ Dr. Campbell directs our science team.
 # Advisors
 
 <figure>
-  <img alt="Margarita Larios" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Margarita Larios" src="/assets/images/margarita-cartoon.png" />
   <figcaption>
     Margarita Larios
   </figcaption>
@@ -51,7 +51,7 @@ Dr. Campbell directs our science team.
 Director of Operations & Language Services at NYC Health + Hospitals.
 
 <figure>
-  <img alt="Christina Lee" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Christina Lee" src="/assets/images/christina-cartoon.png" />
   <figcaption>
     Christina Lee
   </figcaption>
@@ -60,7 +60,7 @@ Director of Operations & Language Services at NYC Health + Hospitals.
 Associate Professor & Director, Boston University, CISWH Research Core.
 
 <figure>
-  <img alt="Elizabeth Lilliott" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Elizabeth Lilliott" src="/assets/images/liz-cartoon.png" />
   <figcaption>
     Elizabeth Lilliott
   </figcaption>
@@ -69,7 +69,7 @@ Associate Professor & Director, Boston University, CISWH Research Core.
 Senior Program Evaluator at Pacific Institute for Research and Evaluation.
 
 <figure>
-  <img alt="Sam Howarth" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Sam Howarth" src="/assets/images/sam-cartoon.png" />
   <figcaption>
     Sam Howarth
   </figcaption>
