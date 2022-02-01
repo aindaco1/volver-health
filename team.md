@@ -12,8 +12,8 @@ title: Team
   </figcaption>
 </figure>
 
-Former Product Manager at [Reconnect](reconnect.io).
-Former CEO and Co-owner of [11 Online](11online.us).
+Former Product Manager at [Reconnect](https://reconnect.io).
+Former CEO and Co-owner of [11 Online](https://11online.us).
 Alonso leads our product and business development effort.
 
 <figure>
@@ -23,9 +23,9 @@ Alonso leads our product and business development effort.
   </figcaption>
 </figure>
 
-Senior Engineer at [Flip](flip.xyz).
-Engineering Lead at [Reconnect](reconnect.io).
-Former Co-owner and Senior Engineer at [11 Online](11online.us).
+Senior Engineer at [Flip](https://flip.xyz).
+Engineering Lead at [Reconnect](https://reconnect.io).
+Former Co-owner and Senior Engineer at [11 Online](https://11online.us).
 Jay leads our technology and engineering effort.
 
 <figure>
@@ -35,7 +35,7 @@ Jay leads our technology and engineering effort.
   </figcaption>
 </figure>
 
-Director of Clinical Development at [CheckUp & Choices](checkupandchoices.com).
+Director of Clinical Development at [CheckUp & Choices](https://checkupandchoices.com).
 Licensed Clinical Psychologist and Partner at Behavior Therapy Associates.
 Dr. Campbell directs our science team.
 
