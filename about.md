@@ -3,15 +3,18 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+# At Volver Health, we're on a mission.
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+For Hispanics and Latinx folks in the United States, the **significant barriers to accessing, and low engagement with, substance abuse treatment and recovery resources** is shameful.
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+This unmet need constitutes a damaging and hidden burden on the health and well-being of an estimated **30 million people**.
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+# The barriers are many.
+
+Limited resources, cultural and institutional factors, perceived treatment efficacy, language, and logistics to name a few. Moreover, **stigma and perceived lack of family support** have been identified as significant barriers.
+
+When experiencing challenges related to their alcohol and substance use, **Hispanos often simply don’t know where to turn for help** -- they may be wary of the consequences of seeking help, they may doubt their problems will be understood, and they may not feel that the treatment or resources available are appropriate for their worldview or values.
+
+# We want to smash the barriers.
+
+At Volver Health, we develop technology solutions to directly confront this inequity. We seek to leverage the strengths and available resources of our community -- and **empower Hispanic and Latinx folks to get the treatment they deserve**, in a relevant and culturally-appropriate manner.

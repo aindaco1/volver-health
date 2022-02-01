@@ -3,15 +3,76 @@ layout: post
 title: Team
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+# Board
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Alonso Indacochea" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
   <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+    Alonso Indacochea -- CEO
   </figcaption>
 </figure>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+Former Product Manager at (Reconnect) [reconnect.io].
+Former CEO and Co-owner of (11 Online) [11online.us].
+Alonso leads our product and business development effort.
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+<figure>
+  <img alt="Jay E. Renteria" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <figcaption>
+    Jay E. Renteria -- CTO
+  </figcaption>
+</figure>
+
+Senior Engineer at (Flip) [flip.xyz].
+Engineering Lead at (Reconnect) [reconnect.io].
+Former Co-owner and Senior Engineer at (11 Online) [11online.us].
+Jay leads our technology and engineering effort.
+
+<figure>
+  <img alt="Dr. William P. Campbell" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <figcaption>
+    Dr. William P. Campbell -- CSO
+  </figcaption>
+</figure>
+
+Director of Clinical Development at (CheckUp & Choices) [checkupandchoices.com].
+Licensed Clinical Psychologist and Partner at Behavior Therapy Associates.
+Dr. Campbell directs our science team.
+
+# Advisors
+
+<figure>
+  <img alt="Margarita Larios" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <figcaption>
+    Margarita Larios
+  </figcaption>
+</figure>
+
+Director of Operations & Language Services at NYC Health + Hospitals.
+
+<figure>
+  <img alt="Christina Lee" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <figcaption>
+    Christina Lee
+  </figcaption>
+</figure>
+
+Associate Professor & Director, Boston University, CISWH Research Core.
+
+<figure>
+  <img alt="Elizabeth Lilliott" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <figcaption>
+    Elizabeth Lilliott
+  </figcaption>
+</figure>
+
+Senior Program Evaluator at Pacific Institute for Research and Evaluation.
+
+<figure>
+  <img alt="Sam Howarth" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <figcaption>
+    Sam Howarth
+  </figcaption>
+</figure>
+
+Former Director, Division of Policy and Performance at New Mexico Department of Health.
