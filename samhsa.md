@@ -8,9 +8,15 @@ title: Locator
 </div>
 
 <script>
+
     function getUrlVars() {
+        let parameters = document.location.search;
+        parameters = parameters.substring(1);
+        let decoded = atob(parameters);
+        let qmark = '?';
+        decoded = qmark.concat(decoded);
         var vars = {};
-        var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        var parts = decoded.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
             vars[key] = value;
         });
         return vars;
