@@ -3,6 +3,8 @@ layout: post-alternate
 title: Locator
 ---
 
+<img id="together" src='assets/images/logo.png' onerror='imgError(this)' />
+
 <p id="text">Spanish version</p>
 
 <button id="spanish" onclick="changeTextSpanish()">Spanish</button>
@@ -29,8 +31,17 @@ title: Locator
 
     var treatment = "sType="+getUrlVars()["treatment"];
     var code = "sCodes="+getUrlVars()["code"];
+    var togetherImage = atob(getUrlVars()["image"]);
 
     document.getElementById("mentalhealthtreatmentfinder").src = "https://findtreatment.samhsa.gov/locator/widget/170?"+treatment+"&"+code;
+
+    document.getElementById('together').src = togetherImage;
+
+    function imgError(image) {
+        image.onerror = "";
+        image.src = "assets/images/logo.png";
+        return true;
+    }
 
     function changeTextEnglish(){
         document.getElementById("text").innerHTML = "English version";
