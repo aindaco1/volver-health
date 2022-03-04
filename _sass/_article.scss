@@ -8,6 +8,8 @@
 
 .post-alternate {
   background: $brand-color;
+  padding: 0;
+  margin: 0 auto;
 }
 
 .post > * {
@@ -65,4 +67,8 @@
   padding: 1em;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+#together {
+  max-width: 200px;
 }

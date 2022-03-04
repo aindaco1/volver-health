@@ -92,7 +92,7 @@ img {
   display: flex;
   max-width: 100%;
   height: auto;
-  margin: 2em auto;
+  margin: 0 auto;
 }
 
 figure img {
@@ -162,7 +162,31 @@ figcaption {
   }
 }
 
-#iframewrapper {
+#iframewrapper, .centered {
   margin: 0 auto;
   display: table;
+}
+
+button {
+  background-color: #f2e9da;
+  color: black;
+  cursor: pointer;
+  border-radius: 8px;
+  font: unset;
+  font-weight: bold;
+  border-width: thin;
+  margin: 50px 35px;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+
+  &:hover {
+      transition: all 0.25s;
+      box-shadow: 0px 6px 15px black;
+      padding: 0.5rem 1rem 0.5rem 1rem;
+
+      &::after {
+          opacity: 1;
+          transition: all 0.25s;
+
+      }
+  }
 }
